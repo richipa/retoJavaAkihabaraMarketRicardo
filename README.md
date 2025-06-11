@@ -160,4 +160,4 @@ Este proyecto lo he desarrollado paso a paso como parte de mi aprendizaje en Jav
 
 ### Cambios de Última Hora
 
-- Se ha añadido un **menú principal en la consola** como entrada principal del programa. Ahora el menú de productos (MenuProductos) ya no actúa como menú principal, sino que está accesible desde esta nueva pantalla principal junto al resto de funcionalidades como gestión de clientes e IA.
+Se ha añadido un **menú principal en la consola** como entrada principal del programa. Ahora el menú de productos (MenuProductos) ya no actúa como menú principal, sino que está accesible desde esta nueva pantalla principal junto al resto de funcionalidades como gestión de clientes e IA.
