@@ -37,6 +37,9 @@ Es una aplicación de consola y escritorio que simula la gestión de una tienda 
 |-------------------|-------------|
 | `InterfazConsola` | Menús y formularios por consola. |
 | `VentanaGrafica`  | Interfaz gráfica principal con botones y subventanas. |
+| `InterfazProductos` | Interfaz gráfica para Productos con botones y campos de texto. |
+| `InterfazClientes` | Interfaz gráfica para Clientes con botones y campos de texto. |
+| `EventosVentana` | Asigna los eventos a los botones de VentanaGrafica. Conecta botones con acciones. |
 
 ### Paquete `controlador`
 | Clase             | Descripción |
@@ -44,6 +47,7 @@ Es una aplicación de consola y escritorio que simula la gestión de una tienda 
 | `ControladorMenu`| Lógica del programa y conexión entre modelo y vista (consola). |
 | `Main`           | Punto de entrada para consola. |
 | `MainGrafico`    | Punto de entrada para interfaz gráfica. |
+| `SetupDatos`    | Carga productos por defecto si no existen en la base de datos. |
 
 ### Paquete `config`
 | Clase           | Descripción |
