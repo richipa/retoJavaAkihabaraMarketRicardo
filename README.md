@@ -4,7 +4,7 @@ Este es mi trabajo de prácticas para 1ºDAM, hecho en Java.
 
 ## ¿Qué es Akihabara Market?
 
-Es una aplicación de consola y escritorio que simula la gestión de una tienda otaku: puedes añadir productos, gestionarlos, verlos en una interfaz gráfica moderna y hasta pedir ayuda a una IA para describir productos o sugerir categorías.
+Es una aplicación de consola y escritorio que simula la gestión de una tienda otaku: puedes añadir productos o clientes, gestionarlos, verlos en una interfaz gráfica moderna y hasta pedir ayuda a una IA para describir productos o sugerir categorías.
 
 ---
 
